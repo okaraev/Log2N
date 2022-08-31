@@ -4,11 +4,16 @@ Log to Notification (briefly Log2N) is for notifying clients about their logs wi
 
 ---
 ## Services
+![App Screenshot](https://raw.githubusercontent.com/okaraev/Log2N/dev01/design.png)
+
 There are 4 services:
 * [Client Config](https://github.com/okaraev/Log2N_Config)
 * [Log Gateway](https://github.com/okaraev/Log2N_Gateway)
 * [Config Matcher](https://github.com/okaraev/Log2N_Matcher)
 * [Notifier](https://github.com/okaraev/Log2N_Notifier)
+
+Services are loosely coupled to each other, so there is no direct dependency between them.
+
 ---
 ## Client Config Service
 
