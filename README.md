@@ -1,6 +1,6 @@
 # Log to Notification microservices
 
-Log to Notification (briefly Log2N) is for notifying clients about their logs with defined parameters. Log2N is designed to be scalable. Its design also ensures high consistency in notification delivery. Thus, Log2N can be used in high load applications, where delivery is important.
+Log to Notification (briefly Log2N) is for notifying clients about their logs with defined way. Log2N is designed to be scalable. Its design also ensures high consistency in notification delivery. Thus, Log2N can be used in high load applications, where delivery is important.
 
 ---
 ## Services
