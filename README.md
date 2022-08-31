@@ -51,4 +51,4 @@ It is high critical service and its label is Tier 1.
 ---
 ## Notifier Service
 
-This services responsibility is delivery. After receiving notification the service delivers it if it has a notification method, defined in the notification. By default it has only one notification method. But it can be extended with custom notification methods.
+This services responsibility is delivery. After receiving notification the service delivers it if it has a notification method, defined in the notification. By default it has only one notification method. But it can be extended with custom notification methods. The service is labeled as Tier 1.
